@@ -1,7 +1,14 @@
 import React from 'react';
 import logo from '../Home/rolex.jpeg';
+import { useState, useEffect } from 'react'
 
 const Home = () => {
+    const [data, setData] = useState();
+    useEffect(() => {
+        fetch('data.json')
+            .then(res => res.json())
+            .then(data => console.log(data))
+    }, []);
     return (
         <div className='grid grid-cols-4 px-16 items-center'>
             <div className='col-span-3'>
