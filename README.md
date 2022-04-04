@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# RolexShop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site Link: https://velvety-palmier-679f13.netlify.app/
 
 ## Available Scripts
 
