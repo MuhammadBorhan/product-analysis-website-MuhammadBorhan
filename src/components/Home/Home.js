@@ -19,7 +19,9 @@ const Home = () => {
                     <img className='rounded-lg' src={logo} alt="" />
                 </div>
             </div>
-            <div>
+
+
+            <div className='mb-16'>
                 <h2 className='text-3xl text-center font-bold mt-12'>Customer Reviews({customrReview.length})</h2>
                 <div className='grid grid-cols-3 px-16 py-8'>
                     {
