@@ -3,54 +3,63 @@
         "id": 1,
         "name": "Cosmograph Daytona 18k",
         "title": "New Rolex Oyster Perpetual Cosmograph Daytona Men's Luxury Watch for Sale",
-        "img": "https://images.pexels.com/photos/364822/rolex-watch-time-luxury-364822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/364822/rolex-watch-time-luxury-364822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.4
     },
     {
         "id": 2,
         "name": "Day-Date 40 Solid 18k ",
         "title": "ROLEX DAY-DATE 40 MEN'S LUXURY WATCH",
-        "img": "https://images.pexels.com/photos/1353065/pexels-photo-1353065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/1353065/pexels-photo-1353065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.8
     },
     {
         "id": 3,
         "name": "Submariner Date Two Tone Blue",
         "title": "ROLEX SUBMARINER DATE MEN'S LUXURY WATCH",
-        "img": "https://images.pexels.com/photos/3809175/pexels-photo-3809175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/3809175/pexels-photo-3809175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.2
     },
     {
         "id": 4,
         "name": "Submariner Date Starbucks Green Bezel",
         "title": "New Rolex Submariner Date Starbucks Men's Diving Watch",
-        "img": "https://images.pexels.com/photos/9982586/pexels-photo-9982586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/9982586/pexels-photo-9982586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.5
     },
     {
         "id": 5,
         "name": "Submariner Men's Luxury Diver",
         "title": "ROLEX SUBMARINER MEN'S LUXURY DIVER WATCH",
-        "img": "https://images.pexels.com/photos/9982607/pexels-photo-9982607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/9982607/pexels-photo-9982607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4
     },
     {
         "id": 6,
         "name": "Submariner Date Black",
         "title": "NEW ROLEX SUBMARINER DATE MEN'S LUXURY WATCH ON SALE",
-        "img": "https://images.pexels.com/photos/9978983/pexels-photo-9978983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/9978983/pexels-photo-9978983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 3.4
     },
     {
         "id": 7,
         "name": "Yacht-Master 37",
         "title": "ROLEX OYSTER PERPETUAL YACHT-MASTER 37 MEN'S OR WOMEN'S LUXURY WATCH",
-        "img": "https://images.pexels.com/photos/9981140/pexels-photo-9981140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/9981140/pexels-photo-9981140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.6
     },
     {
         "id": 8,
         "name": "Champagne Dial Watch 116503-0003",
         "title": "ROLEX COSMOGRAPH DAYTONA MEN'S LUXURY WATCH",
-        "img": "https://images.pexels.com/photos/9981148/pexels-photo-9981148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/9981148/pexels-photo-9981148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 3.9
     },
     {
         "id": 9,
         "name": "Yacht-Master 37",
         "title": "ROLEX COSMOGRAPH DAYTONA MEN'S LUXURY WATCH",
-        "img": "https://images.pexels.com/photos/9898236/pexels-photo-9898236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/9898236/pexels-photo-9898236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.8
     }
 ]
