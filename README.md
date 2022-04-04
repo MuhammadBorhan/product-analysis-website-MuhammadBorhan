@@ -2,6 +2,12 @@
 
 Live site Link: https://velvety-palmier-679f13.netlify.app/
 
+MarkUp: 
+* Line Chart and pie Chart
+* dashboard
+* Customer reviews by custom hook
+* blogs
+
 ## Available Scripts
 
 In the project directory, you can run:
