@@ -11,8 +11,8 @@ const Home = () => {
         <div>
             <div className='grid grid-cols-4 px-16 items-center'>
                 <div className='col-span-3'>
-                    <h2 className='text-4xl font-bold'>Choose your favourite watch</h2>
-                    <h2 className='text-4xl font-bold text-blue-500 mt-2'>Which you have been looking for for a long time</h2>
+                    <h2 className='text-4xl font-bold'>Welcome to RolexShop</h2>
+                    <h2 className='text-4xl font-bold text-blue-500 mt-2'>Choose your favourite watch</h2>
                     <p className='w-3/4 mt-6 text-xl'>This is your best option for buying this watch. This is your best option for buying this watch. This is your best option for buying this watch.</p>
                 </div>
                 <div>
