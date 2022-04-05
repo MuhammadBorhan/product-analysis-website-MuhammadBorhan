@@ -2,11 +2,12 @@
 
 Live site Link: https://velvety-palmier-679f13.netlify.app/
 
-MarkUp: 
-* Line Chart and pie Chart
-* dashboard
-* Customer reviews by custom hook
-* blogs
+## Everything I did in this assignment: 
+* Use Custom Hook for Common Reviews
+* Make LineChart and AreaChart in Dashboard
+* Three Reviews for Home Page and Make See All Reviews Button for All Reviews in Reviews Page
+* Written answer of two question in blogs Page
+* Make Navigation Menu in Header Page
 
 ## Available Scripts
 
