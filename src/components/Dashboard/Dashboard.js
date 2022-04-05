@@ -1,5 +1,5 @@
 import React from 'react';
-import { CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 
 const Dashboard = () => {
     const data = [
@@ -78,6 +78,51 @@ const Dashboard = () => {
             "revenue": 361000
         }
     ];
+
+    const data2 = [
+        {
+            "month": "Mar",
+            "investment": 100000,
+            "sell": 442241,
+            "revenue": 410401
+        },
+        {
+            "month": "Apr",
+            "investment": 200000,
+            "sell": 455423,
+            "revenue": 324500
+        },
+        {
+            "month": "May",
+            "investment": 250000,
+            "sell": 145726,
+            "revenue": 567010
+        },
+        {
+            "month": "Jun",
+            "investment": 330000,
+            "sell": 334529,
+            "revenue": 440405
+        },
+        {
+            "month": "Jul",
+            "investment": 600000,
+            "sell": 224601,
+            "revenue": 650900
+        },
+        {
+            "month": "Aug",
+            "investment": 700000,
+            "sell": 234670,
+            "revenue": 361000
+        },
+        {
+            "month": "Sep",
+            "investment": 600000,
+            "sell": 234670,
+            "revenue": 361000
+        }
+    ];
     return (
         <div className='grid grid-cols-2 px-16 py-4 items-center'>
             <div>
@@ -91,8 +136,30 @@ const Dashboard = () => {
                 </LineChart>
             </div>
 
+            <div>
+                <h3 className='text-indigo-500 font-bold text-xl text-center mb-4'>Investment vs Revenue</h3>
+                <AreaChart
+                    width={500}
+                    height={400}
+                    data={data2}
+                    margin={{
+                        top: 10,
+                        right: 30,
+                        left: 0,
+                        bottom: 0,
+                    }}
+                >
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="month" />
+                    <YAxis />
+                    <Tooltip />
+                    <Area type="monotone" dataKey="investment" stackId="1" stroke="#8884d8" fill="#8884d8" />
+                    <Area type="monotone" dataKey="sell" stackId="1" stroke="#82ca9d" fill="#82ca9d" />
+                    <Area type="monotone" dataKey="revenue" stackId="1" stroke="#ffc658" fill="#ffc658" />
+                </AreaChart>
+            </div>
 
-            <div className='mx-auto'>
+            <div className='mt-12'>
                 <h3 className='text-indigo-500 font-bold text-xl text-center mb-4'>Investment vs Revenue</h3>
                 <LineChart
                     layout="vertical"

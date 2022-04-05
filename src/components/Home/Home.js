@@ -22,7 +22,7 @@ const Home = () => {
 
 
             <div className='mb-16'>
-                <h2 className='text-3xl text-center font-bold mt-12'>Customer Reviews({customrReview.length})</h2>
+                <h2 className='text-3xl text-center font-bold mt-12'>Customer Reviews({customrReview.length}+)</h2>
                 <div className='grid grid-cols-3 px-16 py-8'>
                     {
                         customrReview.map(review => <CustomerReview key={review.id} review={review}></CustomerReview>)
